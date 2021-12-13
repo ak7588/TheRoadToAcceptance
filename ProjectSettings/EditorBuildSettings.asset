@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/XR.unity
+    guid: 25b2b3b9b100f1b43b0b330f2d1f82c3
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 01036ec2f18d740cba6dfb4bf61cdfa1
+  - enabled: 1
+    path: Assets/Scenes/DepressionScene.unity
+    guid: 4f6be9bd4a1ff4d7c95145575c7a5256
+  - enabled: 1
+    path: Assets/Scenes/DenialScene.unity
+    guid: 12a36e531ba8848caa5beb722d8325c5
+  - enabled: 1
+    path: Assets/Scenes/BargainScene.unity
+    guid: 8f347b03b2c0a4d0598c979188fc71bd
+  - enabled: 1
+    path: Assets/Scenes/AngerScene.unity
+    guid: 3f60818e85bfb4371b9ec297f792a0e0
+  - enabled: 1
+    path: Assets/Scenes/Acceptance.unity
+    guid: c3f5a4284dac94faf9bf5b71223685b5
+  - enabled: 0
+    path: Assets/Scenes/End.unity
+    guid: fb5edd63080c044778aa2ea8f0155931
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 10689788c89234335a14b23b31fc7583
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 5ba232821adc446a3abb48af83c361af
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 435f8bcc664c895419c2d1dc46f79697, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 871ad90ddd6829e42878eeb2fc491ecc, type: 2}
